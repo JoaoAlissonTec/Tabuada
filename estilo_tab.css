@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(168, 75, 255);
+    font: normal 15pt Arial;
+}
+input{
+    font: normal 12pt Arial;
+}
+header, footer{
+    text-align: center;
+    color: white;
+}
+section{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 0 10px 0 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.367);
+}
+div#botoes{
+    text-align: right;
+    margin: auto;
+}
+input#bot{
+    outline: none;
+    border-radius: 0 10px 0 10px;
+}
+input#num{
+    outline: none;
+}
